@@ -34,3 +34,12 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 I’ve listed every single objective exactly as ISC² presents it, but I’ve added my own notes on what actually matters for the exam and how I approached studying each one.
 
 ### Domain 1: Security Principles (26%)
+
+This is the foundation of the entire exam. If you get this right, everything else clicks.
+
+1.1 Understand the security concepts of information assurance
+
+- Confidentiality, Integrity, Availability (the CIA triad)
+- Authentication (including MFA)
+- Non-repudiation
+- Privacy
