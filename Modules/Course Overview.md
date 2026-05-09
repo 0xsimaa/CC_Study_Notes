@@ -20,3 +20,12 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 ---
 
 ### The Five Domains – My Personal Breakdown
+
+|Domain|Weight|My Study Priority|
+|---|---|---|
+|**1. Security Principles**|**26%**|High (biggest chunk)|
+|**2. Business Continuity, Disaster Recovery & Incident Response**|**10%**|Medium|
+|**3. Access Controls Concepts**|**22%**|High|
+|**4. Network Security**|**24%**|High|
+|**5. Security Operations**|**18%**|Medium-High|
+|**Total**|**100%**||
