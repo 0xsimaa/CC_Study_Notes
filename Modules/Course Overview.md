@@ -47,3 +47,7 @@ This is the foundation of the entire exam. If you get this right, everything els
 **1.2 Understand the risk management process**
 
 - Risk identification, assessment, treatment, and risk tolerance
+
+**1.3 Understand security controls**
+
+- Technical, administrative, and physical controls
