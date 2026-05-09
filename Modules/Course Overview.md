@@ -37,9 +37,13 @@ I’ve listed every single objective exactly as ISC² presents it, but I’ve ad
 
 This is the foundation of the entire exam. If you get this right, everything else clicks.
 
-1.1 Understand the security concepts of information assurance
+**1.1 Understand the security concepts of information assurance**
 
 - Confidentiality, Integrity, Availability (the CIA triad)
 - Authentication (including MFA)
 - Non-repudiation
 - Privacy
+
+**1.2 Understand the risk management process**
+
+- Risk identification, assessment, treatment, and risk tolerance
