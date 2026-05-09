@@ -55,3 +55,7 @@ This is the foundation of the entire exam. If you get this right, everything els
 **1.4 Understand the ISC² Code of Ethics**
 
 - This is short but they love to test it; memorize the four canons
+
+**1.5 Understand governance processes**
+
+- Policies, procedures, standards, regulations, and laws
