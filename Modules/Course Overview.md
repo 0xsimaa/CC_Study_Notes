@@ -16,3 +16,6 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 - **Format**: Mostly multiple-choice, some advanced question types 
 - **No prerequisites**: Zero experience required; just solid basic IT knowledge helps 
 - **Where to take it**: Pearson VUE centers (English is the main language, a few others available)
+
+---
+
