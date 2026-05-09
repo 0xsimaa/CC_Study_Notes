@@ -19,3 +19,4 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 
 ---
 
+### The Five Domains – My Personal Breakdown
