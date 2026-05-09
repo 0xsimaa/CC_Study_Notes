@@ -9,3 +9,4 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 
 ---
 
+### Quick Exam Facts (What You Need to Know First)
