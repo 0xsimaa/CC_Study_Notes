@@ -29,3 +29,4 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 |**4. Network Security**|**24%**|High|
 |**5. Security Operations**|**18%**|Medium-High|
 |**Total**|**100%**||
+### Detailed Domains & Sub-Domains
