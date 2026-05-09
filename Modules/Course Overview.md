@@ -51,3 +51,7 @@ This is the foundation of the entire exam. If you get this right, everything els
 **1.3 Understand security controls**
 
 - Technical, administrative, and physical controls
+
+**1.4 Understand the ISC² Code of Ethics**
+
+- This is short but they love to test it; memorize the four canons
