@@ -32,3 +32,5 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 ### Detailed Domains & Sub-Domains
 
 I’ve listed every single objective exactly as ISC² presents it, but I’ve added my own notes on what actually matters for the exam and how I approached studying each one.
+
+### Domain 1: Security Principles (26%)
