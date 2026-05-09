@@ -30,3 +30,5 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 |**5. Security Operations**|**18%**|Medium-High|
 |**Total**|**100%**||
 ### Detailed Domains & Sub-Domains
+
+I’ve listed every single objective exactly as ISC² presents it, but I’ve added my own notes on what actually matters for the exam and how I approached studying each one.
