@@ -10,3 +10,9 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 ---
 
 ### Quick Exam Facts (What You Need to Know First)
+
+- **Exam length**: 2 hours - **Number of questions**: 100–125 (Computerized Adaptive Testing) 
+- **Passing score**: 700 out of 1000 
+- **Format**: Mostly multiple-choice, some advanced question types 
+- **No prerequisites**: Zero experience required; just solid basic IT knowledge helps 
+- **Where to take it**: Pearson VUE centers (English is the main language, a few others available)
