@@ -34,3 +34,6 @@ Proving you are who you say you are.
 - Something you **have** (smart card, phone)
 - Something you **are** (fingerprint, face ID)
 - Something you **do** (typing rhythm, gait)
+
+#### Multi-Factor Authentication (MFA)
+
