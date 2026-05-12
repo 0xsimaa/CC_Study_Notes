@@ -21,3 +21,7 @@ Making sure data is accurate, complete, and hasn’t been tampered with.
 
 #### Availability
 
+Making sure authorized users can access the data and systems when they need them.
+**Real-world example:** A website going down during Black Friday sales.
+**How it’s broken:** DDoS attack or ransomware locking files.
+**Exam tip:** Think “Can I get to it right now?”
