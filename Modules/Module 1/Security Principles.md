@@ -1,0 +1,2 @@
+### 1.1 Understand the Security Concepts of Information Assurance
+This is the heart of Domain 1; and probably the most tested part of the entire exam. Everything in cybersecurity revolves around protecting information.
