@@ -25,3 +25,12 @@ Making sure authorized users can access the data and systems when they need them
 **Real-world example:** A website going down during Black Friday sales.
 **How it’s broken:** DDoS attack or ransomware locking files.
 **Exam tip:** Think “Can I get to it right now?”
+
+### Authentication
+
+Proving you are who you say you are.
+
+- Something you **know** (password, PIN)
+- Something you **have** (smart card, phone)
+- Something you **are** (fingerprint, face ID)
+- Something you **do** (typing rhythm, gait)
