@@ -7,3 +7,5 @@ This is the single most important concept in the whole CC exam. Memorize it, und
 
 #### Confidentiality
 
+Keeping information secret and only accessible to authorized people.
+**Real-world example:** Your medical records or company payroll data. How it’s broken: Someone steals your password or eavesdrops on unencrypted traffic. Exam tip: Think “Who is allowed to see this?”
