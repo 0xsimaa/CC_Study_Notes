@@ -37,3 +37,6 @@ Proving you are who you say you are.
 
 #### Multi-Factor Authentication (MFA)
 
+Using two or more of the above at the same time. 
+**Exam favorite:** “Password + text code to your phone” = 2FA (a type of MFA). 
+Stronger than single-factor, but not perfect (SIM swapping attacks exist).
