@@ -51,3 +51,4 @@ Making sure someone cannot deny they did something.
 ### Privacy
 
 Protecting personal information from unauthorized collection, use, or disclosure.
+**Key difference from confidentiality:** Privacy is about people’s rights; confidentiality is about protecting any sensitive data.
