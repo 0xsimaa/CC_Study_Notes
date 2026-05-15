@@ -52,3 +52,4 @@ Making sure someone cannot deny they did something.
 
 Protecting personal information from unauthorized collection, use, or disclosure.
 **Key difference from confidentiality:** Privacy is about people’s rights; confidentiality is about protecting any sensitive data.
+**_Real-world_:** GDPR, CCPA, HIPAA all focus on privacy.
