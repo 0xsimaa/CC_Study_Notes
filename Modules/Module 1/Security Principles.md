@@ -46,3 +46,4 @@ Stronger than single-factor, but not perfect (SIM swapping attacks exist).
 Making sure someone cannot deny they did something.
 **Simple analogy:** A signed contract with a notary — you can’t later say “I never signed that.”
 **How it’s achieved:** Digital signatures, timestamps, audit logs.
+**_Exam tip_:** Often tested with “proof of origin” or “proof of delivery.”
