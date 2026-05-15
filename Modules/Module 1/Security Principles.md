@@ -43,3 +43,4 @@ Stronger than single-factor, but not perfect (SIM swapping attacks exist).
 
 ### Non-Repudiation
 
+Making sure someone cannot deny they did something.
