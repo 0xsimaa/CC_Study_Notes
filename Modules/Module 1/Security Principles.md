@@ -55,3 +55,5 @@ Protecting personal information from unauthorized collection, use, or disclosure
 **_Real-world_:** GDPR, CCPA, HIPAA all focus on privacy.
 
 #### Quick Study Tip for 1.1:
+
+**Whenever you see a scenario question, ask yourself:** “Which part of the CIA triad is being threatened?” Then check if authentication, non-repudiation, or privacy also apply.
