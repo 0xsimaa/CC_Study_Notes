@@ -49,3 +49,5 @@ Making sure someone cannot deny they did something.
 **_Exam tip_:** Often tested with “proof of origin” or “proof of delivery.”
 
 ### Privacy
+
+Protecting personal information from unauthorized collection, use, or disclosure.
