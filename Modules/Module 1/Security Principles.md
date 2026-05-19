@@ -64,3 +64,10 @@ Protecting personal information from unauthorized collection, use, or disclosure
 ### 1.2 Understand the Risk Management Process
 
 Risk management is how organizations decide what to protect and how much effort to spend.
+
+### Key Definitions (Memorize These)
+
+- **Risk** = Threat × Vulnerability (potential for loss)
+- **Threat** = Anything that could cause harm (hacker, natural disaster, insider)
+- **Vulnerability** = Weakness that can be exploited
+- **Asset** = Anything of value (data, systems, people, reputation)
