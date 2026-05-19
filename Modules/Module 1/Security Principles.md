@@ -63,3 +63,4 @@ Protecting personal information from unauthorized collection, use, or disclosure
 
 ### 1.2 Understand the Risk Management Process
 
+Risk management is how organizations decide what to protect and how much effort to spend.
