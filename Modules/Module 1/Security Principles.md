@@ -82,3 +82,8 @@ Risk management is how organizations decide what to protect and how much effort 
     - **Transfer** → Shift it to someone else (buy insurance, use a cloud provider)
     - **Avoid** → Don’t do the risky activity at all
 - **Risk Monitoring** → Keep watching it because risks change.
+
+**Risk Priorities & Risk Tolerance**
+
+- Organizations have different **risk appetites** (some are very conservative, some are aggressive).
+- _Exam tip_: Questions often ask “What should the company do?” based on their risk tolerance.
