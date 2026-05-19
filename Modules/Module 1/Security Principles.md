@@ -71,3 +71,5 @@ Risk management is how organizations decide what to protect and how much effort 
 - **Threat** = Anything that could cause harm (hacker, natural disaster, insider)
 - **Vulnerability** = Weakness that can be exploited
 - **Asset** = Anything of value (data, systems, people, reputation)
+
+### Risk Management Process (The Cycle)
