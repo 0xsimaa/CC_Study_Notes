@@ -73,3 +73,12 @@ Risk management is how organizations decide what to protect and how much effort 
 - **Asset** = Anything of value (data, systems, people, reputation)
 
 ### Risk Management Process (The Cycle)
+
+- **Risk Identification** → Find the risks
+- **Risk Assessment** → Measure how bad they are (likelihood × impact)
+- **Risk Treatment** (the 4 options):
+    - **Mitigate** → Fix or reduce it (install a firewall)
+    - **Accept** → Live with it (low risk, too expensive to fix)
+    - **Transfer** → Shift it to someone else (buy insurance, use a cloud provider)
+    - **Avoid** → Don’t do the risky activity at all
+- **Risk Monitoring** → Keep watching it because risks change.
