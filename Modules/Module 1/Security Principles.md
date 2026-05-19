@@ -58,3 +58,8 @@ Protecting personal information from unauthorized collection, use, or disclosure
 #### Quick Study Tip for 1.1:
 
 **Whenever you see a scenario question, ask yourself:** “Which part of the CIA triad is being threatened?” Then check if authentication, non-repudiation, or privacy also apply.
+
+---
+
+### 1.2 Understand the Risk Management Process
+
