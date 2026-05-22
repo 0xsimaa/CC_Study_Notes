@@ -92,3 +92,4 @@ My Analogy: Risk management is like buying car insurance — you identify the da
 
 ### 1.3 Understand Security Controls
 
+Security controls are the actual tools and practices we use to reduce risk.
