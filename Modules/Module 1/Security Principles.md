@@ -96,8 +96,11 @@ Security controls are the actual tools and practices we use to reduce risk.
 
 There are three main categories:
 
-|Type of Control|What It Is|Real-World Examples|Exam Tip|
-|---|---|---|---|
-|**Technical**|Technology-based|Firewalls, antivirus, encryption, access control lists (ACLs), MFA|Most common in questions|
-|**Administrative**|People & process-based|Policies, procedures, training, background checks, risk assessments|“The policy says…”|
-|**Physical**|Tangible, real-world|Locks, fences, security guards, CCTV, badge readers, mantraps|Often combined with access control questions|
+| Type of Control    | What It Is             | Real-World Examples                                                 | Exam Tip                                     |
+| ------------------ | ---------------------- | ------------------------------------------------------------------- | -------------------------------------------- |
+| **Technical**      | Technology-based       | Firewalls, antivirus, encryption, access control lists (ACLs), MFA  | Most common in questions                     |
+| **Administrative** | People & process-based | Policies, procedures, training, background checks, risk assessments | “The policy says…”                           |
+| **Physical**       | Tangible, real-world   | Locks, fences, security guards, CCTV, badge readers, mantraps       | Often combined with access control questions |
+
+**Important Concept: Defense in Depth**
+
