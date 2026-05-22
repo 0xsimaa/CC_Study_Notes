@@ -113,3 +113,5 @@ This is short but heavily tested. ISC² expects you to know and live by these fo
 - **Protect society, the common good, necessary public trust and confidence in information and systems.** (Biggest priority; society comes first)
 - **Act honorably, honestly, justly, responsibly, and legally.**
 - **Provide diligent and competent service to principals** (your employer/clients).
+- **Advance and protect the profession.**
+
