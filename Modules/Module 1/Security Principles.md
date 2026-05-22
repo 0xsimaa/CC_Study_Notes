@@ -108,3 +108,4 @@ Using multiple layers of controls (technical + administrative + physical) so if 
 
 ### 1.4 Understand the ISC² Code of Ethics
 
+This is short but heavily tested. ISC² expects you to know and live by these four canons (in order of priority):
