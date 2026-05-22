@@ -110,5 +110,6 @@ Using multiple layers of controls (technical + administrative + physical) so if 
 
 This is short but heavily tested. ISC² expects you to know and live by these four canons (in order of priority):
 
-- Protect society, the common good, necessary public trust and confidence in information and systems. (Biggest priority; society comes first)
-- 
+- **Protect society, the common good, necessary public trust and confidence in information and systems.** (Biggest priority; society comes first)
+- **Act honorably, honestly, justly, responsibly, and legally.**
+- **Provide diligent and competent service to principals** (your employer/clients).
