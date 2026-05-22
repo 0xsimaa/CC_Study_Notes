@@ -89,3 +89,6 @@ Risk management is how organizations decide what to protect and how much effort 
 - _Exam tip_: Questions often ask “What should the company do?” based on their risk tolerance.
 
 My Analogy: Risk management is like buying car insurance — you identify the danger (driving), assess how likely an accident is, then decide to mitigate (drive carefully), accept (no insurance on old beater car), transfer (buy insurance), or avoid (don’t drive).
+
+### 1.3 Understand Security Controls
+
