@@ -105,3 +105,6 @@ There are three main categories:
 **Important Concept: Defense in Depth**
 
 Using multiple layers of controls (technical + administrative + physical) so if one fails, others still protect you.
+
+### 1.4 Understand the ISC² Code of Ethics
+
