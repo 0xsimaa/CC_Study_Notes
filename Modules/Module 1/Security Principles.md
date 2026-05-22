@@ -109,3 +109,6 @@ Using multiple layers of controls (technical + administrative + physical) so if 
 ### 1.4 Understand the ISC² Code of Ethics
 
 This is short but heavily tested. ISC² expects you to know and live by these four canons (in order of priority):
+
+- Protect society, the common good, necessary public trust and confidence in information and systems. (Biggest priority; society comes first)
+- 
