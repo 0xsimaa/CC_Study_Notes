@@ -132,3 +132,4 @@ Governance is how an organization sets the rules for security.
 
 **Quick Way to Remember**:
 - Policy = **What** we do
+- Standard = **How well** we do it
