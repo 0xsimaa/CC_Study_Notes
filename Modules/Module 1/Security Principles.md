@@ -129,3 +129,5 @@ Governance is how an organization sets the rules for security.
 - **Procedures** -> Step-by-step instructions on **how** to do something (“Here’s the exact process to reset a password”).
 - **Standards** -> Specific, mandatory requirements (“All passwords must be 12+ characters with complexity”).
 - **Regulations and Laws** -> External rules you **must** follow (GDPR, HIPAA, SOX, etc.).
+
+**Quick Way to Remember**:
