@@ -135,3 +135,7 @@ Governance is how an organization sets the rules for security.
 - Standard = **How well** we do it
 - Procedure = **How** we do it step by step
 - Regulation = **The law** says we must
+
+**END OF MODULE 1**
+
+---
