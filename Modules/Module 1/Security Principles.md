@@ -122,3 +122,6 @@ I actually printed these four lines and stuck them on my wall while studying.
 ### 1.5 Understand Governance Processes
 
 Governance is how an organization sets the rules for security.
+
+### Key Terms (Learn the Differences)
+
