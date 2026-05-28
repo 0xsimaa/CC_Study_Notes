@@ -118,3 +118,6 @@ This is short but heavily tested. ISC² expects you to know and live by these fo
 **Exam Tip:** If you get a question that asks “What should the certified professional do?”, always choose the answer that best matches the first canon that applies. They test this with ethical dilemmas.
 
 I actually printed these four lines and stuck them on my wall while studying.
+
+### 1.5 Understand Governance Processes
+
