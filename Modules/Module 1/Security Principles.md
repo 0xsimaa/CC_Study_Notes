@@ -131,3 +131,4 @@ Governance is how an organization sets the rules for security.
 - **Regulations and Laws** -> External rules you **must** follow (GDPR, HIPAA, SOX, etc.).
 
 **Quick Way to Remember**:
+- Policy = **What** we do
