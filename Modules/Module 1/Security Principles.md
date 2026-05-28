@@ -126,3 +126,4 @@ Governance is how an organization sets the rules for security.
 ### Key Terms (Learn the Differences)
 
 - **Policies** -> High-level statements of intent (“We will protect customer data”). Mandatory.
+- **Procedures** → Step-by-step instructions on **how** to do something (“Here’s the exact process to reset a password”).
