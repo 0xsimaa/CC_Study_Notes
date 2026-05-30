@@ -17,3 +17,7 @@ To keep the business running (or recover quickly) when something bad happens —
 
 **Key Components of Business Continuity**
 
+- **Business Impact Analysis (BIA)** → The most important starting point. Identifies critical business processes, their dependencies, and the impact if they stop.
+- **Business Continuity Plan (BCP)** → The actual documented plan.
+- **Recovery Strategies** → Alternate work sites, backup suppliers, cross-training employees, etc.
+- **Testing & Exercises** → Tabletop exercises, simulations, full-scale drills.
