@@ -7,3 +7,6 @@
 **Purpose**
 
 To keep the business running (or recover quickly) when something bad happens — whether it’s a natural disaster, cyber attack, power outage, or supply chain failure.
+
+**Importance**
+
