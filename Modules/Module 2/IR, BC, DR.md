@@ -14,3 +14,6 @@ To keep the business running (or recover quickly) when something bad happens —
 - Protects company reputation
 - Helps meet legal and regulatory requirements
 - Maintains customer trust
+
+**Key Components of Business Continuity**
+
