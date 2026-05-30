@@ -10,3 +10,7 @@ To keep the business running (or recover quickly) when something bad happens —
 
 **Importance**
 
+- Prevents major financial losses
+- Protects company reputation
+- Helps meet legal and regulatory requirements
+- Maintains customer trust
