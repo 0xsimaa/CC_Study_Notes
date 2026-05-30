@@ -21,3 +21,6 @@ To keep the business running (or recover quickly) when something bad happens —
 - **Business Continuity Plan (BCP)** → The actual documented plan.
 - **Recovery Strategies** → Alternate work sites, backup suppliers, cross-training employees, etc.
 - **Testing & Exercises** → Tabletop exercises, simulations, full-scale drills.
+
+**Types of Alternate Sites (Very Important for the Exam)**
+
