@@ -39,3 +39,6 @@ To get technology back up and running as fast as possible after a major disrupti
 
 **Importance** 
 Disasters can destroy servers, corrupt data, or make offices unusable. DR ensures the technical backbone of the business recovers.
+
+**Key Relationship:**
+DR is usually a subset of Business Continuity. BC is about the whole business, while DR is about the IT side.
