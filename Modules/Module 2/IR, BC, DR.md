@@ -31,3 +31,5 @@ To keep the business running (or recover quickly) when something bad happens —
 | **Cold Site** | Empty space with basic infrastructure      | Low       | Days to weeks    | Non-critical functions                 |
 
 ### 2.2 Understand Disaster Recovery (DR)
+
+Disaster Recovery (DR) focuses specifically on restoring IT systems, data, and infrastructure after a disaster.
