@@ -36,3 +36,6 @@ Disaster Recovery (DR) focuses specifically on restoring IT systems, data, and i
 
 **Purpose**
 To get technology back up and running as fast as possible after a major disruptive event.
+
+**Importance** 
+Disasters can destroy servers, corrupt data, or make offices unusable. DR ensures the technical backbone of the business recovers.
