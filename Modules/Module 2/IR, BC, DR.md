@@ -24,8 +24,10 @@ To keep the business running (or recover quickly) when something bad happens —
 
 **Types of Alternate Sites (Very Important for the Exam)**
 
-|Site Type|Description|Cost|Recovery Speed|When to Use|
-|---|---|---|---|---|
-|**Hot Site**|Fully equipped, mirrored data, ready to go|Very High|Minutes to hours|Critical operations (banks, hospitals)|
-|**Warm Site**|Partially equipped, needs some setup|Medium|Hours to days|Important but not instant need|
-|**Cold Site**|Empty space with basic infrastructure|Low|Days to weeks|Non-critical functions|
+| Site Type     | Description                                | Cost      | Recovery Speed   | When to Use                            |
+| ------------- | ------------------------------------------ | --------- | ---------------- | -------------------------------------- |
+| **Hot Site**  | Fully equipped, mirrored data, ready to go | Very High | Minutes to hours | Critical operations (banks, hospitals) |
+| **Warm Site** | Partially equipped, needs some setup       | Medium    | Hours to days    | Important but not instant need         |
+| **Cold Site** | Empty space with basic infrastructure      | Low       | Days to weeks    | Non-critical functions                 |
+
+### 2.2 Understand Disaster Recovery (DR)
