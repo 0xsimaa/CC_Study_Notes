@@ -33,3 +33,6 @@ To keep the business running (or recover quickly) when something bad happens —
 ### 2.2 Understand Disaster Recovery (DR)
 
 Disaster Recovery (DR) focuses specifically on restoring IT systems, data, and infrastructure after a disaster.
+
+**Purpose**
+To get technology back up and running as fast as possible after a major disruptive event.
