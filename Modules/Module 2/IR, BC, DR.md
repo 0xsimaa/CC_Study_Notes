@@ -58,3 +58,8 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 - Long RTO/RPO = cheaper solution (cold site + daily backups)
 
 **Main Components of Disaster Recovery**
+- Disaster Recovery Plan (DRP)
+- Data backups (full, incremental, differential)
+- Offsite storage / Cloud backups
+- Redundant systems and failover capabilities
+- Regular DR testing
