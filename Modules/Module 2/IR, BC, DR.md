@@ -74,3 +74,4 @@ Incident Response (IR) is the structured approach to handling and managing secur
 
 **Purpose**
 
+To detect, respond to, and recover from security incidents in a controlled and effective manner, while minimizing damage.
