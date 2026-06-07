@@ -71,3 +71,6 @@ Disaster Recovery = Making sure the stoves, fridges, and ovens are working again
 ### 2.3 Understand Incident Response
 
 Incident Response (IR) is the structured approach to handling and managing security incidents (hacking, malware, data breach, insider threats, etc.).
+
+**Purpose**
+
