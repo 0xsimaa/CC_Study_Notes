@@ -45,3 +45,4 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 
 ### Critical Metrics You Must Know
 
+- RTO – Recovery Time Objective
