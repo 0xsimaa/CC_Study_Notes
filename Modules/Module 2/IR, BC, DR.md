@@ -63,3 +63,5 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 - Offsite storage / Cloud backups
 - Redundant systems and failover capabilities
 - Regular DR testing
+
+**Simple Analogy I used:**
