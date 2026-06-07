@@ -46,5 +46,9 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 ### Critical Metrics You Must Know
 
 - RTO – Recovery Time Objective
+
 	The maximum acceptable time to restore a system after a disaster. Example: “We must have email back within 4 hours” → RTO = 4 hours
+
+- RPO – Recovery Point Objective
+
 	
