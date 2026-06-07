@@ -65,3 +65,5 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 - Regular DR testing
 
 **Simple Analogy I used:**
+Business Continuity = Making sure the entire restaurant can still serve customers even if the kitchen catches fire.
+Disaster Recovery = Making sure the stoves, fridges, and ovens are working again quickly.
