@@ -51,4 +51,4 @@ DR is usually a subset of Business Continuity. BC is about the whole business, w
 
 - RPO – Recovery Point Objective
 
-	
+	The maximum acceptable data loss measured in time. Example: “We can afford to lose only 15 minutes of data” → RPO = 15 minutes
