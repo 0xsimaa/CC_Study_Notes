@@ -42,3 +42,6 @@ Disasters can destroy servers, corrupt data, or make offices unusable. DR ensure
 
 **Key Relationship:**
 DR is usually a subset of Business Continuity. BC is about the whole business, while DR is about the IT side.
+
+### Critical Metrics You Must Know
+
