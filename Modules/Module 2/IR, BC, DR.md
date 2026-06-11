@@ -98,3 +98,5 @@ I strongly recommend memorizing this order:
 - **Incident** vs **Event**: An event is anything that happens; an incident is a harmful event that violates policy.
 - **Playbooks** -> Pre-written step-by-step guides for common incidents (ransomware, DDoS, phishing).
 - **Communication** is critical during an incident (who to inform: management, legal, customers, law enforcement).
+
+### Domain 2 Summary Table (Super Useful for Revision)
