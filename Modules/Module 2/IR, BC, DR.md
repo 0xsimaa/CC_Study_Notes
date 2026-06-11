@@ -100,3 +100,9 @@ I strongly recommend memorizing this order:
 - **Communication** is critical during an incident (who to inform: management, legal, customers, law enforcement).
 
 ### Domain 2 Summary Table (Super Useful for Revision)
+
+|Concept|Focus Area|Main Goal|Key Deliverable|
+|---|---|---|---|
+|**Business Continuity (BC)**|Whole business operations|Keep business alive|BCP + BIA|
+|**Disaster Recovery (DR)**|IT systems & data|Restore technology|DRP + RTO/RPO|
+|**Incident Response (IR)**|Security incidents|Manage & recover from attacks|IR Plan + PICERL|
