@@ -85,3 +85,10 @@ To detect, respond to, and recover from security incidents in a controlled and e
 ### Main Components – The Incident Response Lifecycle
 
 I strongly recommend memorizing this order:
+
+- **Preparation** – Having tools, team (CSIRT), and plans ready
+- **Identification** – Detecting and confirming an incident
+- **Containment** – Stopping the damage from spreading (very important step)
+- **Eradication** – Removing the root cause (delete malware, close vulnerabilities)
+- **Recovery** – Bringing systems back to normal operation
+- **Lessons Learned** – Review what happened and improve (post-incident review)
