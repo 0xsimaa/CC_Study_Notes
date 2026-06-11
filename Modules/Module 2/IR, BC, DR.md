@@ -101,8 +101,10 @@ I strongly recommend memorizing this order:
 
 ### Domain 2 Summary Table (Super Useful for Revision)
 
-|Concept|Focus Area|Main Goal|Key Deliverable|
-|---|---|---|---|
-|**Business Continuity (BC)**|Whole business operations|Keep business alive|BCP + BIA|
-|**Disaster Recovery (DR)**|IT systems & data|Restore technology|DRP + RTO/RPO|
-|**Incident Response (IR)**|Security incidents|Manage & recover from attacks|IR Plan + PICERL|
+| Concept                      | Focus Area                | Main Goal                     | Key Deliverable  |
+| ---------------------------- | ------------------------- | ----------------------------- | ---------------- |
+| **Business Continuity (BC)** | Whole business operations | Keep business alive           | BCP + BIA        |
+| **Disaster Recovery (DR)**   | IT systems & data         | Restore technology            | DRP + RTO/RPO    |
+| **Incident Response (IR)**   | Security incidents        | Manage & recover from attacks | IR Plan + PICERL |
+
+### Domain 2 Exam Tips & Final Advice
