@@ -92,3 +92,5 @@ I strongly recommend memorizing this order:
 - **Eradication** – Removing the root cause (delete malware, close vulnerabilities)
 - **Recovery** – Bringing systems back to normal operation
 - **Lessons Learned** – Review what happened and improve (post-incident review)
+
+**Key Concepts to Remember**:
