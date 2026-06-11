@@ -108,3 +108,8 @@ I strongly recommend memorizing this order:
 | **Incident Response (IR)**   | Security incidents        | Manage & recover from attacks | IR Plan + PICERL |
 
 ### Domain 2 Exam Tips & Final Advice
+
+- Most questions will ask you to choose between BC, DR, or IR in a given scenario.
+- Always know the difference between **RTO** and **RPO** — they are heavily tested.
+- Remember: Containment comes before Eradication in incident response.
+- They like questions such as: “What should be done first?” or “Which site should the company choose?”
