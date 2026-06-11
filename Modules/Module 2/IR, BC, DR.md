@@ -83,3 +83,5 @@ To detect, respond to, and recover from security incidents in a controlled and e
 - Improves future defenses through lessons learned
 
 ### Main Components – The Incident Response Lifecycle
+
+I strongly recommend memorizing this order:
