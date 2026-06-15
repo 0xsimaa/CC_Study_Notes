@@ -17,3 +17,7 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 - **Environmental design** — Lighting, clear sight lines, landscaping that doesn’t provide hiding spots (Crime Prevention Through Environmental Design – CPTED).
 
 **2. Monitoring Controls**
+- **Security guards** — Human presence, can make judgment calls.
+- **CCTV / Video surveillance** — Deterrence + investigation. Can be monitored live or recorded.
+- **Alarm systems** — Motion sensors, door contacts, glass break sensors.
+- **Access logs** — Who entered, when, and where. Critical for audits and investigations.
