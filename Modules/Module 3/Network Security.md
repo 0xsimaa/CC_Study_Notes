@@ -21,3 +21,5 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 - **CCTV / Video surveillance** — Deterrence + investigation. Can be monitored live or recorded.
 - **Alarm systems** — Motion sensors, door contacts, glass break sensors.
 - **Access logs** — Who entered, when, and where. Critical for audits and investigations.
+
+**3. Authorized vs Unauthorized Personnel**
