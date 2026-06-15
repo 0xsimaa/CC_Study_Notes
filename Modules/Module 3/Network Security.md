@@ -23,3 +23,8 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 - **Access logs** — Who entered, when, and where. Critical for audits and investigations.
 
 **3. Authorized vs Unauthorized Personnel**
+- Clear distinction between employees, contractors, visitors, and vendors.
+- Visitors should be escorted and logged.
+- **Tailgating / Piggybacking** — When an unauthorized person follows someone through a secured door. This is a classic exam topic.
+
+**Exam Tip**: ISC² often asks about the **best control** to prevent tailgating. The answer is usually a **mantrap** or **turnstile** (not just a badge reader).
