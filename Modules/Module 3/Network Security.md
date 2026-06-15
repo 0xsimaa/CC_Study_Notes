@@ -15,3 +15,5 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 - **Turnstiles & Revolving doors** — Allow only one person at a time.
 - **Fences, gates, bollards** — Outer perimeter protection.
 - **Environmental design** — Lighting, clear sight lines, landscaping that doesn’t provide hiding spots (Crime Prevention Through Environmental Design – CPTED).
+
+**2. Monitoring Controls**
