@@ -7,3 +7,5 @@ Physical access control is about protecting the **actual location** of systems, 
 Prevent unauthorized people from entering facilities, rooms, or areas where sensitive assets are located.
 
 ### Key Components of Physical Access Controls
+
+**1. Physical Security Controls (Barriers & Entry Systems)**
