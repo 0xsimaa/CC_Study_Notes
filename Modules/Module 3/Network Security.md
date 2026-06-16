@@ -49,3 +49,5 @@ Logical access controls protect **digital resources**; files, databases, applica
 - Prevents fraud and errors.
 
 ### Types of Access Control Models
+
+This is the most tested part of Domain 3. Know the differences cold.
