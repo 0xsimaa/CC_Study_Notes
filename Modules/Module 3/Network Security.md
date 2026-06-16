@@ -43,3 +43,7 @@ Logical access controls protect **digital resources**; files, databases, applica
 - **Exam favorite**: “A user only needs access to the folders related to their department.”
 
 **Segregation (or Separation) of Duties (SoD)**
+
+- No single person should control all parts of a critical process.
+- Example: The person who creates a vendor in the system should **not** be the same person who approves payments to that vendor.
+- Prevents fraud and errors.
