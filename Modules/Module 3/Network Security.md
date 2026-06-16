@@ -41,3 +41,5 @@ Logical access controls protect **digital resources**; files, databases, applica
 - Users should only have the **minimum** access rights needed to perform their job.
 - Example: A receptionist should not have admin rights on the company server.
 - **Exam favorite**: “A user only needs access to the folders related to their department.”
+
+**Segregation (or Separation) of Duties (SoD)**
