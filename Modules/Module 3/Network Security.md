@@ -31,3 +31,5 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 
 
 ### 3.2 Understand Logical Access Controls
+
+Logical access controls protect **digital resources** — files, databases, applications, networks, etc.
