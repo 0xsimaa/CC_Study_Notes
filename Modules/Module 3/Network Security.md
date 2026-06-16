@@ -28,3 +28,6 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 - **Tailgating / Piggybacking** — When an unauthorized person follows someone through a secured door. This is a classic exam topic.
 
 **Exam Tip**: ISC² often asks about the **best control** to prevent tailgating. The answer is usually a **mantrap** or **turnstile** (not just a badge reader).
+
+
+### 3.2 Understand Logical Access Controls
