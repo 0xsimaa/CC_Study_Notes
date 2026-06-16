@@ -35,3 +35,9 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 Logical access controls protect **digital resources**; files, databases, applications, networks, etc.
 
 ### Core Principles (Memorize These)
+
+**Principle of Least Privilege**
+
+- Users should only have the **minimum** access rights needed to perform their job.
+- Example: A receptionist should not have admin rights on the company server.
+- **Exam favorite**: “A user only needs access to the folders related to their department.”
