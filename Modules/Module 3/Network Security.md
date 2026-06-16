@@ -47,3 +47,5 @@ Logical access controls protect **digital resources**; files, databases, applica
 - No single person should control all parts of a critical process.
 - Example: The person who creates a vendor in the system should **not** be the same person who approves payments to that vendor.
 - Prevents fraud and errors.
+
+### Types of Access Control Models
