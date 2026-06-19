@@ -63,3 +63,5 @@ This is the most tested part of Domain 3. Know the differences cold.
 - **Access Control List (ACL)** — List of users/groups and their permissions on an object (file, folder, network share).
 - **Capability** — A token that gives a subject permission to access an object (less common in questions).
 - **Authentication vs Authorization**
+	- **Authentication** = Proving who you are (password, MFA, biometrics)
+	- **Authorization** = What you are allowed to do after being authenticated
