@@ -70,3 +70,4 @@ This is the most tested part of Domain 3. Know the differences cold.
 
 - When a question mentions “the system decides access based on security clearance levels,” it’s almost always MAC.
 - When it says “the manager decides who can access the shared drive,” it’s DAC.
+- When it mentions “employees get access based on their department or job title,” it’s **RBAC**.
