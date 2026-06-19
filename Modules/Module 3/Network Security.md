@@ -65,3 +65,5 @@ This is the most tested part of Domain 3. Know the differences cold.
 - **Authentication vs Authorization**
 	- **Authentication** = Proving who you are (password, MFA, biometrics)
 	- **Authorization** = What you are allowed to do after being authenticated
+
+**Exam Tip:**
