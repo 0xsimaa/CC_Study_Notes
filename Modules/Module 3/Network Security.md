@@ -52,8 +52,11 @@ Logical access controls protect **digital resources**; files, databases, applica
 
 This is the most tested part of Domain 3. Know the differences cold.
 
-|Access Control Model|Who Decides Access?|How Access is Granted|Best For|Key Characteristics|Real-World Example|
-|---|---|---|---|---|---|
-|**Discretionary Access Control (DAC)**|**Owner** of the resource|Owner decides who gets access|Most common in everyday use|Flexible, owner-based, uses Access Control Lists (ACLs)|Windows file sharing — you decide who can read/edit your folder|
-|**Mandatory Access Control (MAC)**|**System / Security Administrator** (based on labels)|System enforces rules based on security labels (classification levels)|High-security environments (military, government)|Very strict, uses labels like Confidential, Secret, Top Secret|Bell-LaPadula model (no read up, no write down)|
-|**Role-Based Access Control (RBAC)**|**Administrator** assigns roles|Users get permissions based on their **job role**|Large organizations|Most scalable and commonly used in companies today|“Finance Manager” role automatically gets access to budget files and reporting tools|
+| Access Control Model                   | Who Decides Access?                                   | How Access is Granted                                                  | Best For                                          | Key Characteristics                                            | Real-World Example                                                                   |
+| -------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Discretionary Access Control (DAC)** | **Owner** of the resource                             | Owner decides who gets access                                          | Most common in everyday use                       | Flexible, owner-based, uses Access Control Lists (ACLs)        | Windows file sharing — you decide who can read/edit your folder                      |
+| **Mandatory Access Control (MAC)**     | **System / Security Administrator** (based on labels) | System enforces rules based on security labels (classification levels) | High-security environments (military, government) | Very strict, uses labels like Confidential, Secret, Top Secret | Bell-LaPadula model (no read up, no write down)                                      |
+| **Role-Based Access Control (RBAC)**   | **Administrator** assigns roles                       | Users get permissions based on their **job role**                      | Large organizations                               | Most scalable and commonly used in companies today             | “Finance Manager” role automatically gets access to budget files and reporting tools |
+
+**Other Important Concepts**
+
