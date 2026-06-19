@@ -60,3 +60,4 @@ This is the most tested part of Domain 3. Know the differences cold.
 
 **Other Important Concepts**
 
+- **Access Control List (ACL)** — List of users/groups and their permissions on an object (file, folder, network share).
