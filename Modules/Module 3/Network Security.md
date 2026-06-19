@@ -68,4 +68,5 @@ This is the most tested part of Domain 3. Know the differences cold.
 
 **Exam Tip:**
 
-When a question mentions “the system decides access based on security clearance levels,” it’s almost always MAC.
+- When a question mentions “the system decides access based on security clearance levels,” it’s almost always MAC.
+- When it says “the manager decides who can access the shared drive,” it’s DAC.
