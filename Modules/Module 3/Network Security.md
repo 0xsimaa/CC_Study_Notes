@@ -67,3 +67,5 @@ This is the most tested part of Domain 3. Know the differences cold.
 	- **Authorization** = What you are allowed to do after being authenticated
 
 **Exam Tip:**
+
+When a question mentions “the system decides access based on security clearance levels,” it’s almost always MAC.
