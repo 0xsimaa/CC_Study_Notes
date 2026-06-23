@@ -75,3 +75,8 @@ This is the most tested part of Domain 3. Know the differences cold.
 ### Domain 3 Quick Review & Exam Strategy
 
 **Most Tested Topics in Order**:
+
+- Differences between **DAC, MAC, and RBAC** (expect multiple questions)
+- **Least Privilege** and **Separation of Duties**
+- Physical controls to prevent **tailgating**
+- Purpose of **mantraps**, **CCTV**, and **access logs**
