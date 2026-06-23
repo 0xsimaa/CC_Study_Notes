@@ -73,3 +73,5 @@ This is the most tested part of Domain 3. Know the differences cold.
 - When it mentions “employees get access based on their department or job title,” it’s **RBAC**.
 
 ### Domain 3 Quick Review & Exam Strategy
+
+**Most Tested Topics in Order**:
