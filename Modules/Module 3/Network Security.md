@@ -4,3 +4,4 @@ You don’t need to be a network engineer, but you **must** understand how data 
 
 ### The OSI Model (7 Layers); Most Important Concept in This Domain
 
+The OSI model is a **conceptual framework** that standardizes how different networking technologies communicate. It’s heavily tested.
