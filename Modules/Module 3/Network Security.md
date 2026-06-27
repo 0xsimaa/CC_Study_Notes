@@ -17,3 +17,5 @@ The OSI model is a **conceptual framework** that standardizes how different netw
 | 1     | **Physical**     | Actual transmission of raw bits over physical medium                      | Cables, Hubs, Repeaters, WiFi signals | Please        |
 
 ### TCP/IP Model (4 Layers); The Practical Model
+
+This is the model actually used on the internet. It’s simpler than OSI.
