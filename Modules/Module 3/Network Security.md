@@ -20,9 +20,11 @@ The OSI model is a **conceptual framework** that standardizes how different netw
 
 This is the model actually used on the internet. It’s simpler than OSI.
 
-|TCP/IP Layer|OSI Layers Covered|Main Function|
-|---|---|---|
-|Application|5, 6, 7|User applications & services|
-|Transport|4|TCP / UDP|
-|Internet|3|IP addressing & routing|
-|Network Access|1 & 2|Physical transmission & MAC|
+| TCP/IP Layer   | OSI Layers Covered | Main Function                |
+| -------------- | ------------------ | ---------------------------- |
+| Application    | 5, 6, 7            | User applications & services |
+| Transport      | 4                  | TCP / UDP                    |
+| Internet       | 3                  | IP addressing & routing      |
+| Network Access | 1 & 2              | Physical transmission & MAC  |
+
+### Important Ports You Should Know
