@@ -1,4 +1,4 @@
-### 3.1 Understand Physical Access Controls
+### 4.1 Understand Physical Access Controls
 
 Physical access control is about protecting the **actual location** of systems, data, and people. If someone can physically touch your server or walk into your server room, they can often bypass many logical controls.
 
@@ -30,7 +30,7 @@ Prevent unauthorized people from entering facilities, rooms, or areas where sens
 **Exam Tip**: ISC² often asks about the **best control** to prevent tailgating. The answer is usually a **mantrap** or **turnstile** (not just a badge reader).
 
 
-### 3.2 Understand Logical Access Controls
+### 4.2 Understand Logical Access Controls
 
 Logical access controls protect **digital resources**; files, databases, applications, networks, etc.
 
@@ -72,7 +72,7 @@ This is the most tested part of Domain 3. Know the differences cold.
 - When it says “the manager decides who can access the shared drive,” it’s DAC.
 - When it mentions “employees get access based on their department or job title,” it’s **RBAC**.
 
-### Domain 3 Quick Review & Exam Strategy
+### Domain 4 Quick Review & Exam Strategy
 
 **Most Tested Topics in Order**:
 
