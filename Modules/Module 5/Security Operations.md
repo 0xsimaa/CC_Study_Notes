@@ -11,3 +11,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 | **Hashing**    | One-way function that creates a fixed-length output (digest). Cannot be reversed. | None (mathematical function) | SHA-256, SHA-3, MD5 (insecure) | Verifying integrity (passwords, files)  | Very Fast |
 
 **Key Points**:
+
+- **Symmetric** is fast and good for bulk encryption (e.g., full disk encryption).
