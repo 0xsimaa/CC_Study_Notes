@@ -13,3 +13,4 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 **Key Points**:
 
 - **Symmetric** is fast and good for bulk encryption (e.g., full disk encryption).
+- **Asymmetric** solves the key distribution problem but is slower.
