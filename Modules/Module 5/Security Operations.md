@@ -22,3 +22,4 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 
 - **Classification & Labeling**; Data should be classified (e.g., Public, Internal, Confidential, Restricted) and clearly labeled so people know how to handle it.
 - **Retention**; How long data must be kept (legal, regulatory, or business requirements).
+- **Destruction**; Securely destroying data when no longer needed:
