@@ -26,3 +26,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 	- Paper → Cross-cut shredding
     - Hard drives → Degaussing, physical destruction, or secure wiping
     - Digital media → Cryptographic erasure or physical destruction
+
+### Logging and Monitoring Security Events
