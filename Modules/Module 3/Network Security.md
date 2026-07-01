@@ -1,4 +1,4 @@
-## 3.1 Understand Computer Networking
+### 3.1 Understand Computer Networking
 
 You don’t need to be a network engineer, but you **must** understand how data moves across networks and the basic models used to describe it.
 
@@ -29,13 +29,13 @@ This is the model actually used on the internet. It’s simpler than OSI.
 
 ### Important Ports You Should Know
 
-|Port|Protocol|Purpose|Common Use Case|
-|---|---|---|---|
-|20/21|FTP|File Transfer Protocol|Uploading/downloading files|
-|22|SSH|Secure Shell (remote access)|Secure remote login|
-|23|Telnet|Unsecure remote access|Old, insecure — avoid|
-|25|SMTP|Simple Mail Transfer Protocol|Sending email|
-|53|DNS|Domain Name System|Resolving domain names to IPs|
-|80|HTTP|Hypertext Transfer Protocol|Unsecure web browsing|
-|443|HTTPS|HTTP Secure|Secure web browsing (TLS/SSL)|
-|3389|RDP|Remote Desktop Protocol|Windows remote desktop|
+| Port  | Protocol | Purpose                       | Common Use Case               |
+| ----- | -------- | ----------------------------- | ----------------------------- |
+| 20/21 | FTP      | File Transfer Protocol        | Uploading/downloading files   |
+| 22    | SSH      | Secure Shell (remote access)  | Secure remote login           |
+| 23    | Telnet   | Unsecure remote access        | Old, insecure — avoid         |
+| 25    | SMTP     | Simple Mail Transfer Protocol | Sending email                 |
+| 53    | DNS      | Domain Name System            | Resolving domain names to IPs |
+| 80    | HTTP     | Hypertext Transfer Protocol   | Unsecure web browsing         |
+| 443   | HTTPS    | HTTP Secure                   | Secure web browsing (TLS/SSL) |
+| 3389  | RDP      | Remote Desktop Protocol       | Windows remote desktop        |
