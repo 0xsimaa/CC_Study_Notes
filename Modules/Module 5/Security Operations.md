@@ -4,8 +4,10 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 
 ### Encryption (Protecting Confidentiality)
 
-|Type|Description|Key(s) Used|Common Algorithms|Use Case|Speed|
-|---|---|---|---|---|---|
-|**Symmetric**|Same key is used for encryption and decryption|One shared secret key|AES, 3DES, Blowfish|Encrypting large amounts of data|Fast|
-|**Asymmetric**|Uses a public/private key pair|Public key + Private key|RSA, ECC|Secure key exchange, digital signatures|Slower|
-|**Hashing**|One-way function that creates a fixed-length output (digest). Cannot be reversed.|None (mathematical function)|SHA-256, SHA-3, MD5 (insecure)|Verifying integrity (passwords, files)|Very Fast|
+| Type           | Description                                                                       | Key(s) Used                  | Common Algorithms              | Use Case                                | Speed     |
+| -------------- | --------------------------------------------------------------------------------- | ---------------------------- | ------------------------------ | --------------------------------------- | --------- |
+| **Symmetric**  | Same key is used for encryption and decryption                                    | One shared secret key        | AES, 3DES, Blowfish            | Encrypting large amounts of data        | Fast      |
+| **Asymmetric** | Uses a public/private key pair                                                    | Public key + Private key     | RSA, ECC                       | Secure key exchange, digital signatures | Slower    |
+| **Hashing**    | One-way function that creates a fixed-length output (digest). Cannot be reversed. | None (mathematical function) | SHA-256, SHA-3, MD5 (insecure) | Verifying integrity (passwords, files)  | Very Fast |
+
+**Key Points**:
