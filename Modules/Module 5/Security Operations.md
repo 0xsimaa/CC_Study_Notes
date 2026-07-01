@@ -30,3 +30,4 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 ### Logging and Monitoring Security Events
 
 - **Logs** record what happened, when, and by whom.
+- **Monitoring** means actively watching logs and systems for suspicious activity.
