@@ -19,3 +19,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 **Exam Tip**: If a question mentions “a single key is used,” it’s **symmetric**. If it mentions “public and private keys,” it’s **asymmetric**.
 
 ### Data Handling Lifecycle
+
+- **Classification & Labeling**; Data should be classified (e.g., Public, Internal, Confidential, Restricted) and clearly labeled so people know how to handle it.
