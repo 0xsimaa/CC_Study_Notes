@@ -31,3 +31,4 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 
 - **Logs** record what happened, when, and by whom.
 - **Monitoring** means actively watching logs and systems for suspicious activity.
+- **SIEM (Security Information and Event Management)** Tools that collect, correlate, and analyze logs from many sources in real time.
