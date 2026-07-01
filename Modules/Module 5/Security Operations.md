@@ -17,3 +17,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 - **Hashing** is used for integrity and storing passwords (never store passwords in plaintext or reversible encryption).
 
 **Exam Tip**: If a question mentions “a single key is used,” it’s **symmetric**. If it mentions “public and private keys,” it’s **asymmetric**.
+
+### Data Handling Lifecycle
