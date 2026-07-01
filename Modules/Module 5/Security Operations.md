@@ -15,3 +15,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 - **Symmetric** is fast and good for bulk encryption (e.g., full disk encryption).
 - **Asymmetric** solves the key distribution problem but is slower.
 - **Hashing** is used for integrity and storing passwords (never store passwords in plaintext or reversible encryption).
+
+**Exam Tip**: If a question mentions “a single key is used,” it’s **symmetric**. If it mentions “public and private keys,” it’s **asymmetric**.
