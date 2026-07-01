@@ -28,3 +28,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
     - Digital media → Cryptographic erasure or physical destruction
 
 ### Logging and Monitoring Security Events
+
+- **Logs** record what happened, when, and by whom.
