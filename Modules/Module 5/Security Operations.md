@@ -37,3 +37,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 **Exam Tip**: Logging without monitoring is almost useless. The value comes from actively reviewing and alerting on the logs.
 
 ### 5.2 Understand System Hardening
+
+System hardening means making systems more secure by reducing their attack surface.
