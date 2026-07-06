@@ -43,3 +43,4 @@ System hardening means making systems more secure by reducing their attack surfa
 ### Key Concepts
 
 - **Secure Configuration Baselines** — Documented, approved settings that systems should have (e.g., CIS Benchmarks, NIST baselines).
+- **Patch Management** — Regularly applying updates to fix vulnerabilities. One of the most effective security controls.
