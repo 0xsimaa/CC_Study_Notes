@@ -47,3 +47,5 @@ System hardening means making systems more secure by reducing their attack surfa
 - **Least Privilege** — Only install/run the minimum software and services needed.
 - **Remove Unnecessary Services** — Disable or uninstall anything not required (reduces attack surface).
 - **Configuration Management** — Tracking and controlling changes to systems over time.
+
+**Exam Tip**: The goal of hardening is to **reduce the attack surface** and make systems more difficult to compromise.
