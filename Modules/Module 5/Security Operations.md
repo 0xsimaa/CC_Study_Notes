@@ -46,3 +46,4 @@ System hardening means making systems more secure by reducing their attack surfa
 - **Patch Management** — Regularly applying updates to fix vulnerabilities. One of the most effective security controls.
 - **Least Privilege** — Only install/run the minimum software and services needed.
 - **Remove Unnecessary Services** — Disable or uninstall anything not required (reduces attack surface).
+- **Configuration Management** — Tracking and controlling changes to systems over time.
