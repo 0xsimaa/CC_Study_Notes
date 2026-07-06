@@ -39,3 +39,7 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 ### 5.2 Understand System Hardening
 
 System hardening means making systems more secure by reducing their attack surface.
+
+### Key Concepts
+
+- **Secure Configuration Baselines** — Documented, approved settings that systems should have (e.g., CIS Benchmarks, NIST baselines).
