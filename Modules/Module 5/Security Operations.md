@@ -35,3 +35,5 @@ Data is one of the most valuable assets an organization has. Protecting it throu
 - Important for **incident detection**, **forensics**, and **compliance**.
 
 **Exam Tip**: Logging without monitoring is almost useless. The value comes from actively reviewing and alerting on the logs.
+
+### 5.2 Understand System Hardening
