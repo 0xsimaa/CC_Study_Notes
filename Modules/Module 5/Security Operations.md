@@ -49,3 +49,7 @@ System hardening means making systems more secure by reducing their attack surfa
 - **Configuration Management** — Tracking and controlling changes to systems over time.
 
 **Exam Tip**: The goal of hardening is to **reduce the attack surface** and make systems more difficult to compromise.
+
+---
+
+**THE END**
