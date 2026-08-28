@@ -29,33 +29,3 @@ These aren’t just dry bullet points; I’ve written them the way I wish someon
 |**4. Network Security**|**24%**|High|
 |**5. Security Operations**|**18%**|Medium-High|
 |**Total**|**100%**||
-### Detailed Domains & Sub-Domains
-
-I’ve listed every single objective exactly as ISC² presents it, but I’ve added my own notes on what actually matters for the exam and how I approached studying each one.
-
-### Domain 1: Security Principles (26%)
-
-This is the foundation of the entire exam. If you get this right, everything else clicks.
-
-**1.1 Understand the security concepts of information assurance**
-
-- Confidentiality, Integrity, Availability (the CIA triad)
-- Authentication (including MFA)
-- Non-repudiation
-- Privacy
-
-**1.2 Understand the risk management process**
-
-- Risk identification, assessment, treatment, and risk tolerance
-
-**1.3 Understand security controls**
-
-- Technical, administrative, and physical controls
-
-**1.4 Understand the ISC² Code of Ethics**
-
-- This is short but they love to test it; memorize the four canons
-
-**1.5 Understand governance processes**
-
-- Policies, procedures, standards, regulations, and laws
